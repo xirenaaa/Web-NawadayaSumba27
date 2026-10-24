@@ -25,18 +25,13 @@ export default function Navbar() {
       <div className="pointer-events-auto flex items-center justify-between gap-4 w-full max-w-5xl bg-white/85 backdrop-blur-md pl-4 pr-2 py-2 rounded-full border border-slate-200/80 shadow-[0_4px_20px_rgba(0,0,0,0.08)]">
 
         {/* Brand / Logo */}
-        <Link to="/" className="flex items-center gap-2.5 shrink-0 no-underline group">
-          <div className="w-8 h-8 rounded-full bg-[#3057a6] flex items-center justify-center text-white font-montserrat font-black text-xs group-hover:scale-105 transition-transform">
-            N
-          </div>
-          <div className="flex flex-col gap-0.5">
-            <span className="font-montserrat font-bold text-sm text-slate-900 leading-none">
-              Nawadaya<span className="text-[#3057a6]">.</span>
-            </span>
-            <span className="font-inter text-[10.4px] font-semibold text-slate-500 uppercase tracking-wider leading-none">
-              KKN UGM Sumba
-            </span>
-          </div>
+        <Link to="/" className="flex flex-col gap-0.5 shrink-0 no-underline group">
+          <span className="font-montserrat font-bold text-sm text-slate-900 leading-none">
+            Nawadaya<span className="text-[#3057a6]">.</span>
+          </span>
+          <span className="font-inter text-[10.4px] font-semibold text-slate-500 uppercase tracking-wider leading-none">
+            KKN UGM Sumba
+          </span>
         </Link>
 
         {/* Desktop Nav Items */}

@@ -25,8 +25,7 @@ export const MEMBERS_DATA: Member[] = [
     cluster: 'dpl',
     faculty: 'Fakultas Hukum',
     major: 'Ilmu Hukum',
-    photo: DEFAULT_PHOTO,
-    cvUrl: DEFAULT_CV,
+    photo: '/members/antari-innaka.webp',
   },
 
   // ==========================================
@@ -34,14 +33,14 @@ export const MEMBERS_DATA: Member[] = [
   // ==========================================
   {
     id: 'm-kormanit',
-    name: 'Nabiel S. Rajasa',
+    name: 'Nabiel Syahilabi Rajasa',
     role: 'Koordinator Mahasiswa Unit (Kormanit)',
     hierarchy: 'kormanit',
     cluster: 'unit',
     faculty: 'Fakultas Filsafat',
     major: 'Filsafat',
     photo: '/members/nabiel-s-rajasa.webp',
-    cvUrl: DEFAULT_CV,
+    cvUrl: 'https://drive.google.com/file/d/1h6c4Hk57--fWvlhKdVu4X2ITFCtsSO60/view?usp=sharing',
   },
 
   // ==========================================
@@ -126,7 +125,7 @@ export const MEMBERS_DATA: Member[] = [
     faculty: 'Fakultas Teknik',
     major: 'Teknik Sipil',
     photo: '/members/rafa-ghifari.webp',
-    cvUrl: DEFAULT_CV,
+    cvUrl: 'https://drive.google.com/file/d/1HRLGcGULXI6jXZlrsFF-MGrbWPILwSgj/view?usp=sharing',
   },
   {
     id: 'm-st-4',
@@ -137,18 +136,18 @@ export const MEMBERS_DATA: Member[] = [
     faculty: 'Fakultas Biologi',
     major: 'Biologi',
     photo: '/members/vera-yustifa.webp',
-    cvUrl: DEFAULT_CV,
+    cvUrl: 'https://drive.google.com/file/d/1U7F9ioIJq3LdP5IoB5w6Uv-Sap5hKpvo/view?usp=sharing',
   },
   {
     id: 'm-st-5',
-    name: 'Ahmad Rizwan',
+    name: 'Ahmad Rizwan Hamka',
     role: 'Anggota Kluster Saintek',
     hierarchy: 'member',
     cluster: 'saintek',
     faculty: 'Sekolah Vokasi',
     major: 'Rekayasa Perangkat Lunak',
-    photo: DEFAULT_PHOTO,
-    cvUrl: DEFAULT_CV,
+    photo: '/members/ahmad-rizwan.webp',
+    cvUrl: 'https://drive.google.com/drive/u/1/search?q=CV%20AHMAD%20RIZWAN%20HAMKA',
   },
   {
     id: 'm-st-6',
@@ -163,18 +162,18 @@ export const MEMBERS_DATA: Member[] = [
   },
 
   // ==========================================
-  // LEVEL 5: ANGGOTA KLUSTER SOSHUM (6 ORANG)
+  // LEVEL 5: ANGGOTA KLUSTER SOSHUM (5 ORANG)
   // ==========================================
   {
     id: 'm-so-1',
-    name: 'Venussyela Ayumi',
+    name: 'Venussyela Ayumi Sahira',
     role: 'Anggota Kluster Soshum',
     hierarchy: 'member',
     cluster: 'soshum',
     faculty: 'Fakultas Ilmu Sosial dan Ilmu Politik',
     major: 'Ilmu Komunikasi',
-    photo: DEFAULT_PHOTO,
-    cvUrl: DEFAULT_CV,
+    photo: '/members/venussyela-ayumi.webp',
+    cvUrl: 'https://drive.google.com/file/d/1W9xc7a322ZuQP8W3He4C2y3Z-AEXEi_u/view?usp=sharing',
   },
   {
     id: 'm-so-2',
@@ -200,17 +199,6 @@ export const MEMBERS_DATA: Member[] = [
   },
   {
     id: 'm-so-4',
-    name: 'Naura Hanifika',
-    role: 'Anggota Kluster Soshum',
-    hierarchy: 'member',
-    cluster: 'soshum',
-    faculty: 'Fakultas Psikologi',
-    major: 'Psikologi',
-    photo: DEFAULT_PHOTO,
-    cvUrl: DEFAULT_CV,
-  },
-  {
-    id: 'm-so-5',
     name: 'Pradytya Andri',
     role: 'Anggota Kluster Soshum',
     hierarchy: 'member',
@@ -221,7 +209,7 @@ export const MEMBERS_DATA: Member[] = [
     cvUrl: 'https://drive.google.com/file/d/12gPE3necBZlR3TZ6NyCZ-nEj38pynd9E/view?usp=sharing',
   },
   {
-    id: 'm-so-6',
+    id: 'm-so-5',
     name: 'Pramuraya Wisesa',
     role: 'Anggota Kluster Soshum',
     hierarchy: 'member',
@@ -269,7 +257,7 @@ export const MEMBERS_DATA: Member[] = [
     cluster: 'agro',
     faculty: 'Fakultas Teknologi Pertanian',
     major: 'Manajemen Sumber Daya Akuatik',
-    photo: DEFAULT_PHOTO,
+    photo: '/members/ikko-rahmat.webp',
     cvUrl: 'https://drive.google.com/file/d/1TjYj1NseyxVFujN1OI7sN68JZS3zufO9/view?usp=sharing',
   },
 ]

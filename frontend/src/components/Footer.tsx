@@ -7,10 +7,9 @@ export default function Footer() {
     <footer className="relative z-20 w-full bg-[#0b1220] text-white">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-14 md:py-16 grid grid-cols-1 md:grid-cols-12 gap-10">
         <div className="md:col-span-5">
-          <Link to="/" className="inline-flex items-center gap-2.5 no-underline">
-            <span className="w-9 h-9 rounded-full bg-[#3057a6] flex items-center justify-center font-montserrat font-black text-xs">N</span>
+          <Link to="/" className="inline-flex items-center no-underline">
             <span className="font-montserrat font-bold text-lg leading-none">
-              Nawadaya<span className="text-[#fdde09]">.</span>
+              Nawadaya Sumba<span className="text-[#fdde09]">.</span>
             </span>
           </Link>
           <p className="mt-4 font-inter text-xs text-white/60 leading-relaxed max-w-sm">
