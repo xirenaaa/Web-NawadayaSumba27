@@ -13,7 +13,7 @@ export default function Footer() {
             </span>
           </Link>
           <p className="mt-4 font-inter text-xs text-white/60 leading-relaxed max-w-sm">
-            Tim KKN-PPM Universitas Gadjah Mada Periode 2 tahun 2026, mengabdi bersama warga {KKN_LOCATION.desa}, Kota Tambolaka, Sumba Barat Daya.
+            Tim KKN-PPM Universitas Gadjah Mada Periode 2 tahun 2027, mengabdi bersama warga {KKN_LOCATION.desa}, Kota Tambolaka, Sumba Barat Daya.
           </p>
         </div>
 

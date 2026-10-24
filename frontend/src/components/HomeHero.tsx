@@ -287,7 +287,7 @@ export default function HomeHero() {
             transition={{ duration: 0.8, delay: 0.2, ease }}
             className="pointer-events-auto inline-flex items-center bg-white/10 backdrop-blur-md border border-white/25 font-inter font-semibold text-[10.4px] md:text-xs uppercase tracking-[0.16em] px-3.5 py-1.5 rounded-full mb-5"
           >
-            KKN-PPM UGM 2026 · Periode 2
+            KKN-PPM UGM 2027 · Periode 2
           </motion.span>
 
           <motion.h1
