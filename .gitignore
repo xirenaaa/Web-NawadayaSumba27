@@ -21,6 +21,8 @@ frontend/.output/
 frontend/.tanstack/
 .nitro/
 frontend/.nitro/
+.vercel/
+frontend/.vercel/
 .wrangler/
 frontend/.wrangler/
 .vinxi/
